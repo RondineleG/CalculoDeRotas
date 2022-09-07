@@ -1,0 +1,133 @@
+[
+    {
+        irn_referencia: 5,lat: -12.692832,
+        lng: -39.699084,
+        posto:'POSTO IRAPURU',
+        cidade:'ITATIM/BA',
+        endereco:'KM 553 - ZONA RURAL',
+        br:'BR 116',
+        fone:'(75)34522266',
+        band:'PETROBRAS',
+        estado:'',
+        parada:'1',
+        abastecimento:'0',
+        pernoite:'1'
+    },
+    {irn_referencia: 49,lat: -12.905345,lng: -39.861575,posto:'POSTO ANDORINHA',cidade:'MILAGRES/BA',endereco:'BR-116',br:'BR 116',fone:'(75)35452213',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'0'
+    },
+    {irn_referencia: 163,lat: -13.493936,lng: -40.047178,posto:'POSTO GRANDE VALE',cidade:'JAGUAQUARA/BA',endereco:'RODOVIA BR 116- KM 647',br:'BR 116',fone:'(73)35259557',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 198,lat: -19.839817,lng: -43.197521,posto:'POSTO MARFIM',cidade:'JOAO MONLEVADE/MG',endereco:'BR 381- KM 348',br:'BR 381',fone:'(31)38525393',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 227,lat: -12.697116,lng: -39.706988,posto:'POSTO PARQUE DOS COQUEIROS',cidade:'ITATIM/BA',endereco:'KM 530- S/N - CENTRO',br:'BR 116',fone:'(75)34522132',band:'SHELL',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 237,lat: -18.832208,lng: -41.988857,posto:'POSTO PLANALTO II',cidade:'GOVERNADOR VALADARES/MG',endereco:'KM 412 - SANTA PAULA',br:'BR 116',fone:'(33)21022102',band:'IPIRANGA',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 247,lat: -12.688206,lng: -39.685877,posto:'POSTO REFORCO 4',cidade:'ITATIM/BA',endereco:'ROD. BR 116, KM 517, S/N ZONA RURAL, ITATIM - BA,
+        46875-000',br:'BR 116',fone:'(75)34522115',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 265,lat: -14.765520,lng: -40.707178,posto:'POSTO SAO JORGE',cidade:'VITORIA DA CONQUISTA/BA',endereco:'N 3231',br:'BR 116',fone:'(77)21017162',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 268,lat: -14.951474,lng: -40.898959,posto:'POSTO SAO MARCOS',cidade:'VITORIA DA CONQUISTA/BA',endereco:'835 - ZONA RURAL',br:'BR 116',fone:'(77)34213228',band:'REDE HG',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 376,lat: -10.072859,lng: -38.341290,posto:'POSTO NOVO TEMPO',cidade:'JEREMOABO/BA',endereco:'BR 110',br:'BR 110',fone:'(75)32032424',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 378,lat: -12.684958,lng: -39.679023,posto:'POSTO PAPALEGUA III',cidade:'ITATIM/BA',endereco:'ROD. BR 116, KM 552',br:'BR 116',fone:'(0)40031232',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 503,lat: -21.483347,lng: -45.203359,posto:'POSTO NOVO RIO',cidade:'CARMO DA CACHOEIRA/MG',endereco:'RODOVIA FERNAO DIAS, KM 727,
+        3',br:'BR 381',fone:'(35)32251212',band:'IPIRANGA',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 505,lat: -21.164482,lng: -45.123486,posto:'POSTO GRAAL PERDOES',cidade:'RIBEIRAO VERMELHO/MG',endereco:'KM 674, S/N - ZONA RURAL',br:'381',fone:'(35)38649261',band:'ALE',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 510,lat: -20.876141,lng: -44.844765,posto:'POSTO TARTARIA SANTO ANTONIO',cidade:'SANTO ANTONIO DO AMPARO/MG',endereco:'ROD. FERNAO DIAS,
+        381',br:'BR 381',fone:'(35)36480416',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 511,lat: -13.857669,lng: -40.114005,posto:'POSTO CURVELO',cidade:'JEQUIE/BA',endereco:'AV, TV. PRES. KENEDY,
+        2453',br:'BR 116',fone:'(73)35252453',band:'SHELL',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 513,lat: -13.855950,lng: -40.114111,posto:'POSTO SANTA RITA',cidade:'JEQUIE/BA',endereco:'BR 116',br:'BR 116',fone:'(73)35254992',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 515,lat: -20.731547,lng: -44.772585,posto:'POSTO JUA',cidade:'OLIVEIRA/MG',endereco:'ROD. FERNAO DIAS,
+        1334',br:'BR 381',fone:'(37)33314570',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 521,lat: -12.815279,lng: -39.823856,posto:'POSTO IRMAO CAMINHONEIRO',cidade:'ITATIM/BA',endereco:'BR 116',br:'BR 116',fone:'(75)35451300',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 525,lat: -12.461305,lng: -39.271756,posto:'POSTO SAO CAETANO 2',cidade:'SANTO ESTEVAO/BA',endereco:'BR 116',br:'BR 116',fone:'(75)32311047',band:'IPIRANGA',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 528,lat: -12.084340,lng: -38.968900,posto:'POSTO SAO CRISTOVAO',cidade:'FEIRA DE SANTANA/BA',endereco:'BR 116',br:'BR 116',fone:'(75)36249274',band:'SHELL',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 534,lat: -10.985372,lng: -38.803667,posto:'POSTO BRASIL 4',cidade:'TUCANO/BA',endereco:'BR 116',br:'BR 116',fone:'(75)32721866',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 570,lat: -9.089109,lng: -36.977274,posto:'POSTO PARAISO',cidade:'AGUAS BELAS/PE',endereco:'BR-423, AGUAS BELAS - PE,
+        55340-000',br:'BR 423',fone:'(87)981114471',band:'IPIRANGA',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 574,lat: -8.293553,lng: -35.883948,posto:'POSTO PICHILAU',cidade:'CARUARU/PE',endereco:'ENCRUZILHADA DE SAO JOAO',br:'BR 232',fone:'(81)986090419',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 738,lat: -20.058546,lng: -44.288239,posto:'POSTO TRANSABRIL',cidade:'SAO JOAQUIM DE BICAS/MG',endereco:'ROD. FERNAO DIAS BR-381, KM 451,
+        5, S/N - CAMPINA VERDE, SAO JOAQUIM DE BICAS - MG,
+        32920-000',br:'BR-381',fone:'(31)35349894',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 766,lat: -17.58711,lng: -41.48824,posto:'AUTO POSTO SECULOS',cidade:'TEOFILO OTONI/MG',endereco:'BR-116 TOPAZIO, KM 243 - ZONA RURAL, TEOFILO OTONI - MG,
+        39800-600',br:'BR-116',fone:'(33)35281188',band:'SHELL',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 791,lat: -8.219819,lng: -34.99095,posto:'POSTO COTEGY /BASE SEEK WAY',cidade:'JABOATAO DOS GUARARAPES/PE',endereco:'ESTRADA VARIANTE,
+        1510, JABOATAO DOS GUARARAPES - PE',br:'BR-101',fone:'(81)35243279',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 920,lat: -17.622146,lng: -41.496219,posto:'POSTO SETE ESTRELAS',cidade:'TEOFILO OTONI/MG',endereco:'TEOFILO OTONI',br:'BR 116',fone:'(33)35281161',band:'IPIRANGA',estado:'',parada:'1',abastecimento:'0',pernoite:'0'
+    },
+    {irn_referencia: 921,lat: -18.721951,lng: -41.989720,posto:'POSTO CHEROKEE',cidade:'GOVERNADOR VALADARES/MG',endereco:'BR-116,
+        399 - ZONA RURAL',br:'BR 116',fone:'(33)32213331',band:'SHELL',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 1584,lat: -18.891244,lng: -41.947450,posto:'POSTO FERRARI REDE HG',cidade:'GOVERNADOR VALADARES/MG',endereco:'ROD. BR 116, KM 420, S/N - VILA RICA, GOV. VALADARES - MG,
+        35045-410',br:'BR 116',fone:'(33)32781026',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'0'
+    },
+    {irn_referencia: 1741,lat: -18.681182,lng: -41.988327,posto:'POSTO PINHEIROS - REDE HG',cidade:'GOVERNADOR VALADARES/MG',endereco:'BR 116, KM 394.5, S/N - XONIM DE BAIXO, GOV. VALADARES - MG,
+        35109-500',br:'BR 116',fone:'(33)32848012',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1805,lat: -19.841413,lng: -43.198547,posto:'POSTO CINCO ESTRELAS',cidade:'JOAO MONLEVADE/MG',endereco:'BR 381 KM - SANTO HIPOLITO, JOAO MONLEVADE - MG',br:'BR-381',fone:'(31)38525381',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1806,lat: -19.624507,lng: -42.836643,posto:'POSTO VERANEIO',cidade:'ANTONIO DIAS/MG',endereco:'RODOVIA KM 169, BR-381 - SA CARVALHO, ANTONIO DIAS - MG,
+        35177-000',br:'BR-381',fone:'(31)41161920',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1807,lat: -19.466234,lng: -42.535354,posto:'POSTO JR FAISAO IV',cidade:'IPATINGA/MG',endereco:'R. NOVO HAMBURGO,
+        480 - VENEZA, IPATINGA - MG,
+        35164-260',br:'BR-381',fone:'(31)38013100',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1808,lat: -18.507101,lng: -41.878817,posto:'POSTO TURMALINA',cidade:'FREI INOCENCIO/MG',endereco:'FREI INOCENCIO - MG,
+        35112-000',br:'BR-116',fone:'(0)0',band:'SHELL',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1809,lat: -18.289256,lng: -41.748492,posto:'POSTO BICHO GROSSO',cidade:'CAMPANARIO/MG',endereco:'BR-116,
+        340, CAMPANARIO - MG,
+        39835-000',br:'BR-116',fone:'(33)35131138',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1810,lat: -18.175390,lng: -41.706746,posto:'POSTO PERIQUITO - REDE HG',cidade:'ITAMBACURI/MG',endereco:'RODOVIA BR-116, KM 324, S/N - ZONA RURAL, ITAMBACURI - MG,
+        39830-000',br:'BR-116',fone:'(33)21022103',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1811,lat: -17.373486,lng: -41.531022,posto:'POSTO CAXIAS DO SUL',cidade:'CATUJI/MG',endereco:'CATUJI - MG,
+        39816-000',br:'BR-116',fone:'(0)0',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'0'
+    },
+    {irn_referencia: 1815,lat: -14.896512,lng: -40.867121,posto:'POSTO NOVO PARAISO',cidade:'VITORIA DA CONQUISTA/BA',endereco:'AIRTON SENNA, VITORIA DA CONQUISTA - BA,
+        45066-022',br:'BR-116',fone:'(0)0',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1817,lat: -14.821983,lng: -40.814076,posto:'POSTO MACAUBENSE ROBINSON NUNES VITORIA DA CONQUISTA',cidade:'VITORIA DA CONQUISTA/BA',endereco:'BR 116 KM 828 - CHACARAS AGROFLORES, VITORIA DA CONQUISTA - BA',br:'BR-116',fone:'(77)34270508',band:'PETROBRAS',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 1819,lat: -14.482718,lng: -40.337100,posto:'POSTO IPIRANGA ESTRADAO',cidade:'POCOES/BA',endereco:'ROD BR 116 1761 - KM 716, POCOES - BA,
+        45260-000',br:'BR-116',fone:'(77)34101058',band:'IPIRANGA',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1820,lat: -12.706594,lng: -39.724869,posto:'REDE HG - POSTO PAPA LEGUAS II',cidade:'ITATIM/BA',endereco:'ROD. KM 1355 ZONA RURAL, BR-116, ITATIM - BA,
+        46875-000',br:'BR-116',fone:'(75)34522548',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1821,lat: -11.966702,lng: -38.974176,posto:'POSTO CONTERRANEO II',cidade:'SANTA BARBARA/BA',endereco:'BR-116,
+        16, SANTA BARBARA - BA,
+        44150-000',br:'BR-116',fone:'(75)30214040',band:'',estado:'',parada:'1',abastecimento:'0',pernoite:'1'
+    },
+    {irn_referencia: 1850,lat: -21.675210,lng: -45.339448,posto:'POSTO TREVO',cidade:'TRES CORACOES/MG',endereco:'ROD. FERNAO DIAS',br:'BR 381',fone:'(35)32312306',band:'BR',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 2170,lat: -17.826246,lng: -41.506987,posto:'POSTO CIA DO CAMINHAO',cidade:'TEOFILO OTONI/MG',endereco:'ROD. SANTOS DUMONT,
+        14956-15016 - JARDIM DAS ACACIAS, TEOFILO OTONI - MG',br:'BR-116',fone:'(33)35226554',band:'',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    },
+    {irn_referencia: 2265,lat: -9.4437,lng: -38.2035,posto:'POSTO BR NOVO TEMPO 3',cidade:'PAULO AFONSO/BA',endereco:'R. MARACANA,
+        74 - TANCREDO NEVES III, PAULO AFONSO - BA,
+        48611-258',br:'',fone:'(75)991239439',band:'',estado:'',parada:'1',abastecimento:'1',pernoite:'1'
+    }
+];
